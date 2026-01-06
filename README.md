@@ -11,7 +11,7 @@ ProQee is intentionally built with an engineering-first architecture: determinis
 •	Reduce rigging calculation errors through structured, validated workflows
 •	Improve consistency in lift planning and documentation
 •	Provide clear traceability from inputs to engineering results
-•	Support compliance with lifting standards
+•	Support compliance with lifting standards, such as DNV standards (ST and RP series), the ASME B30 series, and relevant ISO standards, including ISO 2408, ISO 7531, ISO 8792, and ISO 4301 
 •	Create a foundation for future intelligent optimisation and analytics 
 
 3.0	Current Scope 
