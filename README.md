@@ -1,8 +1,7 @@
 # Field-Rigging-Planning-Application
 ProQee - an AI-powered application developed to support topside rigging design for oil and gas field construction projects, as well as operations and maintenance activities.
 
-Developer: Celestine Iwomi
-Developer's Comment: ProQee brings together my many years of hands-on construction engineering experience with my recent software development training to create practical innovations that improve safety, accuracy, and efficiency in the execution of oil and gas construction projects.
+Developer: Celestine Iwomi. ProQee brings together my many years of hands-on construction engineering experience with my recent software development training to create practical innovations that improve safety, accuracy, and efficiency in the execution of oil and gas construction projects.
 
 1.0	Overview
 ProQee is a desktop-first rigging planning application designed to support engineers in the systematic development, verification, and documentation of lifting and rigging plans. It focuses on engineering accuracy, regulatory compliance, and traceability, providing a structured alternative to spreadsheets and fragmented CAD-based workflows.
